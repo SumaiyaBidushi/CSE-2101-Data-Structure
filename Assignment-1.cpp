@@ -1,3 +1,6 @@
+//Write a program to Calculate the CGPA and the merit position using OOP..
+
+
 #include<iostream>
 using namespace std;
 class Student{
@@ -39,8 +42,3 @@ int main()
         }
     }
 }
-
-
-
-
-
